@@ -1,5 +1,6 @@
 .body-content {
     margin-top: 72px;
+    flex-direction: column;
 }
 
 td, th {
@@ -8,6 +9,7 @@ td, th {
 
 th {
     text-align: center;
+    position: relative;
 }
 
 td {
